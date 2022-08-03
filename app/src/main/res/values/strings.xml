@@ -9,4 +9,5 @@
     <string name="insira_sua_Senha" />
     <string name="Insira_sua_Senha">Insira sua Senha</string>
     <string name="imagem_principal">Imagem principal</string>
+    <string name="bot_o_cadastrar">Botão cadastrar</string>
 </resources>

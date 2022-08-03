@@ -14,6 +14,34 @@
         android:theme="@style/Theme.MySkout"
         tools:targetApi="31">
         <activity
+            android:name=".ParceiriasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VagasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RecrutadoresActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CanditadosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TalentosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PerfilActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MenuPrincipalActivity"
+            android:exported="false"
+            android:theme="@style/temaSemBarra" />
+        <activity
+            android:name=".JanelaComponentesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".janela_coordnator_Activity"
+            android:exported="false" />
+        <activity
             android:name=".InnerActivity"
             android:exported="false" />
         <activity
